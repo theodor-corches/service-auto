@@ -1,2 +1,2 @@
 # service-auto
-Responsive app for booking a car service appointment
+LARAVEL App for booking a car service appointment
